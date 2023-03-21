@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ContactExercice</string>
+    <string name="ModifierProfil">Profile modification</string>
+    <string name="Enregistrer">Save</string>
+    <string name="ListContact">Contacts list</string>
+    <string-array name="listContact">
+        <item>lucie@gmail.com</item>
+        <item>martin@gmail.com</item>
+        <item>mylene@gmail.com</item>
+        <item>marco@gmail.com</item>
+        <item>samuel@gmail.com</item>
+        <item>fannie@gmail.com</item>
+        <item>jacob@gmail.com</item>
+        <item>felix@gmail.com</item>
+        <item>victor@gmail.com</item>
+        <item>helene@gmail.com</item>
+        <item>jean@gmail.com</item>
+        <item>antoine@gmail.com</item>
+        <item>marie-helene@gmail.com</item>
+        <item>patrick@gmail.com</item>
+        <item>emily@gmail.com</item>
+        <item>raphael@gmail.com</item>
+        <item>zoe@gmail.com</item>
+        <item>zack@gmail.com</item>
+        <item>liam@gmail.com</item>
+    </string-array>
+    <string-array name="TypeTelephone">
+        <item>Cell</item>
+        <item>Home</item>
+        <item>Work</item>
+    </string-array>
+    <string-array name="TypeCourriel">
+        <item>Personal</item>
+        <item>Professional</item>
+    </string-array>
+    <string name="hintPrenom">First name</string>
+    <string name="hintInitiales">Initials</string>
+    <string name="hintNom">Name</string>
+    <string name="hintCourriel">Email</string>
+    <string name="hintTelephone">Phone</string>
+    <string name="confirmationEnregistre">Saved profile</string>
+    <string name="ConfirmationLongueEnregistre">The profile has been successfully saved</string>
+</resources>
